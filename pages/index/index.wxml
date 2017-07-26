@@ -1,0 +1,4 @@
+
+<view class="container">
+  <button type="default" bindtap="templateView">footer 页脚</button>
+</view>
